@@ -93,3 +93,5 @@ The original data are not included as part of the repository, but are available 
 	* [September 2013](http://www.ropercenter.uconn.edu/CFIDE/cf/action/catalog/abstract.cfm?type=&start=&id=&archno=USPSRA2013-HNI122&abstract=)
 	* [October 2013](http://www.ropercenter.uconn.edu/CFIDE/cf/action/catalog/abstract.cfm?type=&start=&id=&archno=USPSRA2013-HNI123&abstract=)
 	* [November 2013](http://www.ropercenter.uconn.edu/CFIDE/cf/action/catalog/abstract.cfm?type=&start=&id=&archno=USPSRA2013-HNI124&abstract=)
+
+ [This data is mirrored and can be queried via API here](https://www.exversion.com/data/view/G2LYT0KZZ2I8AK3)
